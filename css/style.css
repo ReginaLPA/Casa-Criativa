@@ -1,1 +1,25 @@
+body {
+    text-align: center;                       
+    background-image: url("image/nascerSol.jpeg");
+    background-size: 100%;
+}
 
+button {
+    border: none;
+    font-weight: bold;
+    color: #FF5E84;
+}
+
+.fat {
+    color: #fff;
+    background: #FF5E84;
+}
+
+img, #footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.hide {
+    display: none;
+}
